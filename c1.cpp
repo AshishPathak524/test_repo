@@ -1,4 +1,4 @@
 #include <iostream>
 
 void main(){ std::cout<<"Hi";
-std::cout"Hello"; }
+std::cout"Hello bhai"; }
